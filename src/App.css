@@ -38,7 +38,7 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #161616;
 }
 
 .formStyle {
@@ -51,7 +51,7 @@
   background-color: #fff;
   border-radius: 8px;
   padding: 20px;
-  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 0 20px 60px rgba(0, 0, 0, 0.1); */
   margin-bottom: 20px;
   width: 100%;
   max-width: 400px;
@@ -75,6 +75,8 @@ textarea {
   border-radius: 4px;
   box-sizing: border-box;
   outline: none;
+  background-color: #e5e5e5;
+  color: #161616;
 }
 
 textarea {
